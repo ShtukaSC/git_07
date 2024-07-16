@@ -32,6 +32,9 @@
 улица (varchar(50))
 дом (varchar(50))
 
+![image](https://github.com/user-attachments/assets/ae8a31b4-3d81-4ac8-8518-a1a0c3fbcd5a)
+
+
 
 Проект (
 идентификатор (первичный ключ, serial)
