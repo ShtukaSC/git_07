@@ -32,11 +32,11 @@
 улица (varchar(50))
 дом (varchar(50))
 
-![image](https://github.com/user-attachments/assets/ae8a31b4-3d81-4ac8-8518-a1a0c3fbcd5a)
-
-
-
 Проект (
 идентификатор (первичный ключ, serial)
 название проекта (varchar(100))
 Идентификатор сотрудника (внешний ключ, integer) ??
+
+
+![image](https://github.com/user-attachments/assets/6411c7c9-d0a1-45d7-8f83-e2d859f4fa18)
+
